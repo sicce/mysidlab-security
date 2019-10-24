@@ -1,7 +1,7 @@
 ---
 users:
-  - name: jayesh
-    aws_groups: "patel, sacramento, fresno, indio"
+  - name: user1
+    aws_groups: "sandiego, sacramento, fresno, indio"
   - name: user2
     aws_groups: "losangeles, sanfransisco, napa"
   - name: user3
