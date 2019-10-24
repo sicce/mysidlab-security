@@ -1,6 +1,7 @@
 ---
 aws_groups:
   - fresno
+  - patel
   - sacramento
   - losangeles
   - sanfransisco
